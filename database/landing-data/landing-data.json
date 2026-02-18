@@ -1,1 +1,39 @@
-
+{
+  "profile": {
+    "name": "Nifad Zaman",
+    "title": "Businessman",
+    "description": "Totally focused on business",
+    "image_url": "https://github.com/nifad2005/portfolio-database/blob/main/database/landing-data/Nifad%20Zaman.jpg",
+    "location": "Dhaka, Bangladesh"
+  },
+  "social_media": [
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/nifaduzzaman",
+      "icon": "facebook-icon-svg"
+    }
+  ],
+  "showcase": [
+    {
+      "id": 1,
+      "title": "Project Operations",
+      "description": "A glimpse into the daily management of my ventures.",
+      "image_url": "https://github.com/nifad2005/portfolio-database/blob/main/database/landing-data/showcase/image_6.jpg",
+      "category": "Business"
+    },
+    {
+      "id": 2,
+      "title": "Networking in Dhaka",
+      "description": "Connecting with industry leaders and partners.",
+      "image_url": "https://github.com/nifad2005/portfolio-database/blob/main/database/landing-data/showcase/iamge_3.jpg",
+      "category": "Networking"
+    },
+    {
+      "id": 3,
+      "title": "The Visionary Workspace",
+      "description": "Where the strategy happens.",
+      "image_url": "https://github.com/nifad2005/portfolio-database/blob/main/database/landing-data/showcase/image_5.jpg",
+      "category": "Lifestyle"
+    }
+  ]
+}
